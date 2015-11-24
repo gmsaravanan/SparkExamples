@@ -1,4 +1,4 @@
-package com.nielsen.perfengg;
+package SparkProj;
 
 /**
  * Created by mohasa02 on 11/5/2015.
